@@ -33,12 +33,15 @@
 
 ###
 
-<p align="left">- Yasser Emam: Dedicated Computer Science and Artificial Intelligence student with a passion for Software Engineering and adept problem-solving skills.
-- Proficiency: Skilled in Python and JavaScript, capable of translating theoretical concepts into practical solutions.
-- Practical Experience: Thrives on hands-on projects, demonstrating the ability to bring ideas to life through application.
-- Continuous Learning: Actively stays informed about the latest advancements in the dynamic field of Technology.
-- Proactive Mindset: Approaches challenges with a proactive problem-solving mindset, contributing to effective solutions.
-- Collaboration: Eager to contribute and collaborate, seeking opportunities that foster both personal and professional growth..</p>
+<p align="left">
+  - **Education:** Dedicated Computer Science and Artificial Intelligence student
+  - **Passion:** Enthusiastic about Software Engineering and adept problem-solving skills
+  - **Programming Languages:** Proficient in Python and JavaScript
+  - **Project Enthusiast:** Thrives on hands-on projects, turning theoretical concepts into practical solutions
+  - **Continuous Learning:** Actively stays informed about the latest advancements in Technology
+  - **Proactive Mindset:** Approaches challenges with a proactive problem-solving mindset
+  - **Collaboration:** Eager to contribute and collaborate, seeking opportunities for personal and professional growth
+</p>
 
 ###
 
