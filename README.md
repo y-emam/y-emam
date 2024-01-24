@@ -42,10 +42,23 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  /> -->
+  <code><img height="40" title="HTML" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png"></code>
+  <code><img height="40" title="HTML" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png"></code>
+  <code><img height="40" title="HTML" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"></code>
+  <code><img height="40" title="HTML" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"></code>
+  <code><img height="40" title="HTML" src=""></code>
+  <code><img height="40" title="HTML" src=""></code>
+  <code><img height="40" title="HTML" src=""></code>
+  <code><img height="40" title="HTML" src=""></code>
+  <code><img height="40" title="HTML" src=""></code>
+  <code><img height="40" title="HTML" src=""></code>
+  <code><img height="40" title="HTML" src=""></code>
+  <code><img height="40" title="HTML" src=""></code>
+  <code><img height="40" title="HTML" src=""></code>
+  <code><img height="40" title="HTML" src=""></code>
+  <code><img height="40" title="HTML" src=""></code>
   <code><img height="40" title="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 </div>
 
